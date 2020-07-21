@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: #fff;
+}
+.box{
+	width: 600px;
+	height: 600px;
+	border: 2px solid transparent;
+	margin: auto;
+
+}
+.logo{
+	margin: auto;
+	width: 100px;
+	margin-left: 220px;
+	margin-top: 35px;
+}
+.box h2{
+	color: black;
+	font-weight: 600; 
+font-size: 30px;
+text-align: center;
+margin-top: 30px;
+width: 600px;
+}
+.box input{
+	width: 350px;
+	height:30px; 
+	margin: auto;
+	color: black;
+	margin-left:25px;
+margin-right: 25px;
+}
+.form{
+box-sizing: border-box;
+width: 400px;
+height: 420px;
+margin: auto;
+margin-top: 30px;
+border: 1px solid red transparent;
+}
+.form a:hover{
+	text-decoration: underline;
+	color: blue;
+}
+.form a{
+	text-decoration: none;
+	font-size: 13px;
+}
+.form p{
+	font-size: 13px;
+}
+.form button{
+	width: 350px;
+	height: 40px;
+	color: #fff;
+	background: blue;
+	margin-top: 20px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
